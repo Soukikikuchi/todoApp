@@ -1,8 +1,8 @@
-# todo_app
+# flutterでtodo_app
 
 A new Flutter application.
 
-## Getting Started
+## flutterの練習です。
 
 This project is a starting point for a Flutter application.
 
